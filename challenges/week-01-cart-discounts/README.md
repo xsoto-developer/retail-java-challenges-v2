@@ -172,8 +172,8 @@ week-01-cart-discounts
 ## 🚀 Instrucciones para Ejecutar
 1. **Clonar el Repositorio**:
    ```bash
-   git clone https://github.com/TuUsuario/retail-java-challenges-v2.git
-   cd week-01-cart-discounts
+   git clone https://github.com/xsoto-developer/retail-java-challenges-v2.git
+   cd challenges/week-01-cart-discounts
    ```
 2. **Configurar el Proyecto**:
     - Abrir en IntelliJ IDEA como proyecto Maven.
